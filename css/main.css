@@ -1,3 +1,24 @@
 body {
     font-family: sans-serif;
 }
+
+.post-container {
+	margin-bottom: 36px;
+}
+
+.post-title {
+    font-style: italic;
+    
+}
+
+.post-date {
+    font-style: italic;
+    
+}
+
+.avatar {
+	height: 24px;
+	width: 24px;
+	text-align: center;
+	margin-right: 6px;
+}
